@@ -13,7 +13,7 @@
     },
     "config": {
         "optimize-autoloader": true,
-        "preferred-install": "dist",
+        "preferred-install": "dist"
     },
     "minimum-stability": "dev",
     "prefer-stable": true
