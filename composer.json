@@ -1,5 +1,5 @@
 {
-    "name": "wikiArticle-finder",
+    "name": "public/wikiarticle-finder",
     "type": "project",
     "description": "article finder in wikipedia",
     "keywords": ["api", "article"],
